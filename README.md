@@ -1,9 +1,10 @@
 # ROS-Simulation-Demo
 
-ROS Simulation Demo with the collaboration of the Triton Robotics AI Team to compete in the Robomaster AI Challenge.
+ROS Simulation Demo with the collaboration of the Triton Robotics AI Team to compete in the Robomaster AI Challenge (2020 - 2021).
 
 Environment:
-ROS Melodic
-Rviz
-Gazebo
-Turtlebot3
+
+1. **ROS Melodic**
+2. **Rviz**
+3. **Gazebo**
+4. **Turtlebot3**
